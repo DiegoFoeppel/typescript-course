@@ -1,5 +1,5 @@
 import "./style.css";
-
+import "./functions.ts";
 // Type Annotations
 let awesomeName: string = "awesomeName";
 awesomeName = "newName";
